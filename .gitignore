@@ -17,5 +17,3 @@ bin/*
 .kitchen.local.yml
 
 *.sublime-*
-
-recipes/*
