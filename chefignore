@@ -102,6 +102,3 @@ Vagrantfile
 ###########
 Gemfile
 Gemfile.lock
-
-# Ignore recipes since this is a pure library cookbook
-recipes/*
